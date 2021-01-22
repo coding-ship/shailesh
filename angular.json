@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "shailesh"
+  "defaultProject": "shailesh",
+  "cli": {
+    "analytics": "9a7ec649-cdf4-4b71-89b4-59060118a6ab"
+  }
 }
